@@ -1,4 +1,3 @@
--- [[ Protected with LuaArmor v1.0 ]]
 return (function(...)
 
 
