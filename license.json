@@ -2,12 +2,12 @@
   "status": "ACTIVE",
   "maintenance_message": "PIERS BOT sedang dalam masa perbaikan (maintenance). Hubungi admin Piers Store.",
   "whitelist_ptht": [
-    "1"
+    "*"
   ],
   "whitelist_pnb": [
     "*"
   ],
   "whitelist_premium": [
-    "*"
+    ""
   ]
 }
