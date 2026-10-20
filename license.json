@@ -3,5 +3,5 @@
   "maintenance_message": "PIERS BOT sedang dalam masa perbaikan (maintenance). Hubungi admin Piers Store.",
   "whitelist_ptht": [ "*" ],
   "whitelist_pnb": [ "*" ],
-  "whitelist_premium": [ "*" ]
+  "whitelist_premium": [ "410783" ]
 }
