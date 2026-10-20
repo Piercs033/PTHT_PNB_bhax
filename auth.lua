@@ -1,7 +1,7 @@
 -- Piers Store - Auth System
 -- Remake: Centralized UID License Verification
 
-local LICENSE_URL = "https://raw.githubusercontent.com/Piercs033/PTHT_PNB_bhax/main/license.json"
+local LICENSE_URL = "https://raw.githubusercontent.com/aidris23/PTHT_PNB/main/license.json"
 
 function VerifyUID(uid)
     if not uid then return false end
