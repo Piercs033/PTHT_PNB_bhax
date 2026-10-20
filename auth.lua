@@ -1,7 +1,7 @@
 -- Piers Store - Auth System (Multi-Product)
 -- Sistem lisensi terpisah per tipe produk
 
-local BASE_URL = "https://raw.githubusercontent.com/Piercs033/PTHT_PNB_bhax/main/"
+local BASE_URL = "https://raw.githubusercontent.com/aidris23/PTHT_PNB/main/"
 
 -- license_type: "ptht" atau "pnb"
 function VerifyUID(uid, license_type)
