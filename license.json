@@ -1,14 +1,13 @@
 {
   "status": "ACTIVE",
-  "maintenance_message": "PIERS BOT sedang dalam masa perbaikan (maintenance). Hubungi admin Piers Store.",
+  "maintenance_message": "PIERS BOT sedang dalam masa maintenance. Hubungi admin.",
+  "whitelist": [ 
+    "*"
+  ],
   "whitelist_ptht": [
-    "Piers",
-    "aidris23",
-    "410783"
+    "*"
   ],
   "whitelist_pnb": [
-    "Piers",
-    "aidris23",
-    "410783"
+    "*"
   ]
 }
